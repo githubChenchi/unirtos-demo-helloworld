@@ -1,0 +1,17 @@
+{
+  "unirtos_root": "",
+  "build": {
+    "module": "EG800ZCN_LA"
+  },
+  "sdk": {
+    "version": "2.1.0",
+    "manifest_repo_url": "https://github.com/githubChenchi/unirtos-sdk-manifests.git"
+  },
+  "libraries": {
+    "manifest_repo_url": "https://github.com/githubChenchi/unirtos-libs-manifests.git",
+    "list": [
+
+    ]
+  },
+  "repo_url": "https://mirrors.tuna.tsinghua.edu.cn/git/git-repo"
+}
